@@ -1,0 +1,52 @@
+/*
+Theme Name: Worthy - Free Powerful Theme by HtmlCoder
+Author:HtmlCoder
+Author URI:http://www.htmlcoder.me
+Version:1.0.0
+Created:November 2014
+License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
+File Description: Place here your custom CSS styles
+*/
+.center-text{
+	text-align: center;
+	allignment-adjust:center;
+
+}
+.space-bottom{
+	padding-bottom: 20px;
+}
+.f-reduce{
+	font-size: 1.9em;
+}
+.miniera
+{
+	background-color: #e91e63;
+}
+.pad-left{
+	padding-left: 8px;
+	color:black;
+	font-size: 23px;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+.pad-left:hover{
+	color: #FFC107;
+}
+.f-color{
+	color: black !important;
+}
+
+.dwld{
+	background-color: #fff;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+.dwld:hover{
+	background-color: #FFC107;
+}
